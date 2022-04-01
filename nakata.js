@@ -25,7 +25,7 @@ const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, 
 let btn = [{
                                 urlButton: {
                                     displayText: `Github`,
-                                    url: `https://github.com/Nakataaard`
+                                    url: `https://github.com/ai-man-123`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -107,7 +107,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
 		if (!('autobio' in setting)) setting.autobio = false
 	    } else global.db.data.settings[botNumber] = {
 		status: 0,
-		autobio: false,
+		autobio: true,
 	    }
 	    
         } catch (err) {
@@ -1154,7 +1154,7 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/Nakataaard/MD2'
+                                    url: 'https://github.com/ai-man-123'
                                 }
                             }, {
                                 callButton: {
@@ -1232,12 +1232,12 @@ case 'bcimg': case 'bcvidio': case 'bcaudio': {
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/Nakataaard/MD2'
+                                    url: 'https://github.com/ai-man-123'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 857-4889-4171'
+                                    phoneNumber: '+6010 281-00 46'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2655,10 +2655,10 @@ case 'donasi':
 tekssa = `Halo @${m.sender.split("@s.whatsapp.net")[0]} 👋
 Berikut adalah list harga untuk sewa bot ini
 *💸Payment💰*
-*•Gopay:* ISI NOMOR LU
-*•Dana:* ISI NOMOR LU
-*•Ovo:* ISI NOMOR LU
-*•Pulsa:* ISI NOMOR LU(Up +5)
+*•Gopay:* 0102810046
+*•Dana:* 0102810046
+*•Ovo:* 0102810046
+*•Pulsa:* 0102810046(Up +5)
 
 *Note:
 =>Untuk Sewa/Memasukkan Bot Kedalam Group, cukup membayar Rp20.000
@@ -2673,9 +2673,9 @@ break
 ╭─ *Bot Info* ─╮       
 
 Libray : *Baileys Multi Device*
-Name Bot : *NahBotz-MD²*
-Creator : *NakataArdnt*
-Author : *NakataArdnta.*
+Name Bot : *rikkaBotz-MD²*
+Creator : *Aimanメ*
+Author : *aiman.*
 User Total : *${Object.keys(global.db.data.users).length}*
  
 ╰─────────╯
@@ -2990,7 +2990,7 @@ User Total : *${Object.keys(global.db.data.users).length}*
                 let btn = [{
                                 urlButton: {
                                     displayText: 'S C R I P T',
-                                    url: 'https://github.com/Nakataaard/MD2'
+                                    url: 'https://github.com/ai-man-123'
                                 }
                             }, {
                                 quickReplyButton: {
