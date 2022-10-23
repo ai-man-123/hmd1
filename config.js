@@ -13,13 +13,13 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'PBApdlT6',
 }
 
 // Other
 global.owner = ['60102810046','0']
-global.web = 'https://github.com/ai-man-123'
-global.bot = 'Aiman-MD²'
+global.web = 'https://instagram.com/aiman1_23'
+global.bot = 'lynx.manmd'
 global.premium = ['60102810046']
 global.packname = 'Aiman'
 global.author = 'lynx.man'
