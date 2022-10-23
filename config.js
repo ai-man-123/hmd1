@@ -18,11 +18,11 @@ global.APIKeys = {
 
 // Other
 global.owner = ['60102810046','0']
-global.web = 'https://s.id/aimaN'
+global.web = 'https://github.com/ai-man-123'
 global.bot = 'Aiman-MD²'
 global.premium = ['60102810046']
 global.packname = 'Aiman'
-global.author = 'Md2'
+global.author = 'lynx.man'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
